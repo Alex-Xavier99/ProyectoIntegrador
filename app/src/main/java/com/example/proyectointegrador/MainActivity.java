@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         mesa6 = (RadioButton)findViewById(R.id.rdbtn_mesa6);
 
         //Prueba
+        //De la prueba
+        //De la prueba
+        //Simon
 
         getSupportActionBar().setDisplayShowHomeEnabled(true);//Se ve e icono de la app
         getSupportActionBar().setIcon(R.mipmap.ic_launcher);
