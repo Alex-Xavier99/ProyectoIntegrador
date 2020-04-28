@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         //De la prueba
         //De la prueba
         //Simon
+        //Hola como estas
 
         getSupportActionBar().setDisplayShowHomeEnabled(true);//Se ve e icono de la app
         getSupportActionBar().setIcon(R.mipmap.ic_launcher);
