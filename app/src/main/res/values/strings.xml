@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Restaurante X</string>
+    <string name="txt_title">#Mesa</string>
+    <string name="txt_mesa1">Mesa 1</string>
+    <string name="txt_mesados">Mesa 2</string>
+    <string name="txt_mesatres">Mesa 3</string>
+    <string name="txt_mesacuatr">Mesa 4</string>
+    <string name="txt_mesacinco">Mesa 5</string>
+    <string name="txt_mesaseis">Mesa 6</string>
+    <string name="txt_mesasiete">Mesa 7</string>
+    <string name="btn_Aceptar">Aceptar</string>
+    <string name="btn_Cancelar">Cancelar</string>
+
+    <string name="txt_title2">Ingresar Datos Factura</string>
+    <string name="txt_subtitle">Mesa Nro. 1</string>
+    <string name="txt_nombres">Razón Social/Nombres y Apellidos</string>
+    <string name="txt_identificacion">Cédula/RUC</string>
+    <string name="txt_direccion">Dirección</string>
+    <string name="txt_telefono">Teléfono</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_ingorden">Ingresar Orden</string>
+    <string name="txt_facturacion">Realizar factura</string>
+
+    <string name="txt_title3">Tipo de Orden</string>
+    <string name="txt_aperitivos">Aperitivos</string>
+    <string name="txt_sopas">Sopas</string>
+    <string name="txt_plfuertes">Platos Fuertes</string>
+    <string name="txt_ensalada">Ensaladas</string>
+    <string name="txt_mariscos">Mariscos</string>
+    <string name="txt_jugos">Jugos</string>
+    <string name="txt_postres">Postres</string>
+    <string name="txt_promociones">Promociones</string>
+
+</resources>
