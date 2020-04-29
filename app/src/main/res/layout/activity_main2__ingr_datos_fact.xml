@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D2009688"
+    android:background="#D1F2F2F4"
     tools:context=".Main2Activity_IngrDatosFact">
 
     <EditText
@@ -20,8 +20,8 @@
         android:ems="10"
         android:hint="@string/txt_nombres"
         android:inputType="textPersonName"
-        android:textColor="@android:color/background_light"
-        android:textColorHint="@android:color/background_light"
+        android:textColor="@android:color/black"
+        android:textColorHint="@android:color/black"
         android:textSize="20sp" />
 
     <EditText
@@ -35,8 +35,8 @@
         android:ems="10"
         android:hint="@string/txt_direccion"
         android:inputType="textPersonName"
-        android:textColor="@android:color/background_light"
-        android:textColorHint="@android:color/background_light"
+        android:textColor="@android:color/black"
+        android:textColorHint="@android:color/black"
         android:textSize="20sp" />
 
     <EditText
@@ -50,8 +50,8 @@
         android:ems="10"
         android:hint="@string/txt_identificacion"
         android:inputType="number"
-        android:textColor="@android:color/background_light"
-        android:textColorHint="@android:color/background_light"
+        android:textColor="@android:color/black"
+        android:textColorHint="@android:color/black"
         android:textSize="20sp" />
 
     <EditText
@@ -65,8 +65,8 @@
         android:ems="10"
         android:hint="@string/txt_telefono"
         android:inputType="number"
-        android:textColor="@android:color/background_light"
-        android:textColorHint="@android:color/background_light"
+        android:textColor="@android:color/black"
+        android:textColorHint="@android:color/black"
         android:textSize="20sp" />
 
     <EditText
@@ -80,7 +80,7 @@
         android:ems="10"
         android:hint="@string/txt_email"
         android:inputType="textEmailAddress"
-        android:textColorHint="@android:color/background_light"
+        android:textColorHint="@android:color/black"
         android:textSize="20sp" />
 
     <TextView
@@ -91,8 +91,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
         android:text="@string/txt_subtitle"
-        android:textColor="@android:color/background_light"
-        android:textColorHint="#FFFFFF"
+        android:textColor="@android:color/black"
+        android:textColorHint="@android:color/black"
         android:textSize="22sp" />
 
     <TextView
@@ -103,7 +103,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
         android:text="@string/txt_title2"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="24sp" />
 
     <TableRow

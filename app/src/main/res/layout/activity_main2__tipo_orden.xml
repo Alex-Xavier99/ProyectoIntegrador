@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D2009688"
+    android:background="#D1F2F2F4"
     android:overScrollMode="ifContentScrolls"
     tools:context=".Main2Activity_TipoOrden">
 
@@ -18,7 +18,7 @@
         android:layout_marginTop="24dp"
         android:gravity="center"
         android:text="@string/txt_title3"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -31,7 +31,7 @@
         android:layout_marginTop="60dp"
         android:gravity="center"
         android:text="@string/txt_subtitle"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="22sp" />
 
     <ImageButton
@@ -79,7 +79,7 @@
         android:layout_marginTop="205dp"
         android:gravity="center"
         android:text="@string/txt_aperitivos"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <TextView
@@ -91,7 +91,7 @@
         android:layout_marginTop="205dp"
         android:gravity="center"
         android:text="@string/txt_sopas"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <TextView
@@ -104,7 +104,7 @@
         android:layout_marginEnd="10dp"
         android:gravity="center"
         android:text="@string/txt_plfuertes"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <ImageButton
@@ -152,7 +152,7 @@
         android:layout_marginTop="345dp"
         android:gravity="center"
         android:text="@string/txt_ensalada"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <TextView
@@ -164,7 +164,7 @@
         android:layout_marginTop="345dp"
         android:gravity="center"
         android:text="@string/txt_mariscos"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <TextView
@@ -177,7 +177,7 @@
         android:layout_marginEnd="45dp"
         android:gravity="center"
         android:text="@string/txt_jugos"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <ImageButton
@@ -213,7 +213,7 @@
         android:layout_marginTop="488dp"
         android:gravity="center"
         android:text="@string/txt_postres"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 
     <TextView
@@ -225,6 +225,6 @@
         android:layout_marginTop="488dp"
         android:gravity="center"
         android:text="@string/txt_promociones"
-        android:textColor="@android:color/background_light"
+        android:textColor="@android:color/black"
         android:textSize="18sp" />
 </RelativeLayout>
