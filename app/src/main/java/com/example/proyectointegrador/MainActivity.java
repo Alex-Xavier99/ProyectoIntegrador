@@ -22,12 +22,6 @@ public class MainActivity extends AppCompatActivity {
         mesa5 = (RadioButton)findViewById(R.id.rdbtn_mesa5);
         mesa6 = (RadioButton)findViewById(R.id.rdbtn_mesa6);
 
-        //Prueba
-        //De la prueba
-        //De la prueba
-        //Simon
-        //Hola como estas
-
         getSupportActionBar().setDisplayShowHomeEnabled(true);//Se ve e icono de la app
         getSupportActionBar().setIcon(R.mipmap.ic_launcher);
     }
